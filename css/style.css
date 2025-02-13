@@ -42,7 +42,6 @@ html, body {
 flex-grow: 1;
 }
 .content{
-    max-width: 1444px;
     display: flex;
      flex-direction: column;
       min-height: 100vh;
@@ -82,7 +81,6 @@ padding: 0px 32px 0px 32px;
 align-items: center;
 color: rgb(255, 255, 255, 0.7);
 transition: all 0.25s ease;
-
 }
 .navbar__button{
 display: flex;
